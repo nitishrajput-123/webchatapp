@@ -16,7 +16,7 @@ function randomNumber(max, min = 0) {
 
 // generate chat object
 function chatGenerator(index) {
-    const names = ["Aditya singh", "Nitish singh","Gaurav singh solanki", "Rajnish kumar", "Arbaj", "Sumit kuamr", "Nehal singh", "Ayush singh", "Kunal singh","Manish kuamr"]
+    const names = ["Aditya singh", "Nitish singh","Gaurav singh solanki", "Rajnish kumar", "Arbaj", "Sumit kuamr", "Nehal singh", "Ayush singh", "Kunal singh","Manish kuamr","Sumit Singh","Ajit Singh","Abhijit Singh","Vicky Singh"]
     const name = names[index];
     let lastseen = randomDate().toLocaleDateString().replace(/\//g, ".");
     if (index % 3 === 0)
