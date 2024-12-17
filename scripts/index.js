@@ -12,7 +12,7 @@ const authedUser = {
     username: "nitishkumar12",
     online: true,
     lastSeen: "Today",
-    avatar: "static/chat-placeholder.svg"
+    avatar: "static/nitishrajput.jpg"
 };
 
 // create instance of ChatApp,
